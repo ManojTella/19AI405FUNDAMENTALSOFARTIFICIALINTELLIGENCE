@@ -23,7 +23,7 @@ It is assumed that there will always be a safe path that the agent can take to e
 </p>
 
 # Program:
-
+```
 wumpus=[["Save","Breeze","PIT","Breeze"],
         ["Smell","Save","Breeze","Save"],
         ["WUMPUS","GOLD","PIT","Breeze"],
@@ -134,7 +134,7 @@ while(player):
         score-=1000
         print("Ahhhhh!!!!\nYou fell in pit.\nAnd your score is: ",score,"\n")
         break
-        
+  ```      
 
 <hr>
 <h1>Sample Input and Output:</h1>
