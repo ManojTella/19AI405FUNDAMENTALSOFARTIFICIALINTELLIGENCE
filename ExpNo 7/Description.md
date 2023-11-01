@@ -75,7 +75,7 @@ End
 <br>
 
 # Program:
-
+```
 from itertools import permutations
 
 def solve_cryptarithmetic():
@@ -106,7 +106,7 @@ if solution:
 else:
     print("No solution found.")
 
-
+```
 # Output:
 
 ![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/4a50667b-a557-4bc5-bbe5-83bc83d0ca3f)
